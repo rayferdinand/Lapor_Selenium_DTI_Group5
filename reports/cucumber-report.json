@@ -1,141 +1,128 @@
 [
   {
-    "description": "    As a user\n    I want to be able to register to the website",
+    "description": "    As a user\n    I want to be able to lapor on the website",
     "elements": [
       {
-        "id": "register;register-on-lapor-gov-id-website",
+        "id": "lapor;login-on-lapor-gov-id-website",
         "keyword": "Scenario",
         "line": 7,
-        "name": "Register on lapor gov id website",
+        "name": "Login on lapor gov id website",
         "steps": [
           {
             "arguments": [],
             "keyword": "Given ",
-            "name": "user homepage",
+            "name": "user browse homepage",
             "result": {
               "status": "passed",
-              "duration": 594000
+              "duration": 1236500
             },
             "line": 8,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:3"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:3"
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
-            "name": "user click daftar",
+            "name": "user choose laporan type",
             "result": {
               "status": "passed",
-              "duration": 141000
+              "duration": 581300
             },
             "line": 9,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:7"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:7"
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
-            "name": "user fill they full name",
+            "name": "user fill laporan title",
             "result": {
               "status": "passed",
-              "duration": 113700
+              "duration": 306000
             },
             "line": 10,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:13"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:13"
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
-            "name": "user fill username",
+            "name": "user fill laporan content",
             "result": {
               "status": "passed",
-              "duration": 116500
+              "duration": 320600
             },
             "line": 11,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:19"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:19"
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
-            "name": "user fill email",
+            "name": "user fill laporan date",
             "result": {
               "status": "passed",
-              "duration": 136900
+              "duration": 472600
             },
             "line": 12,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:25"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:25"
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
-            "name": "user fill phone number",
+            "name": "user fill laporan location",
             "result": {
               "status": "passed",
-              "duration": 103200
+              "duration": 404600
             },
             "line": 13,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:31"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:31"
             }
           },
           {
             "arguments": [],
             "keyword": "And ",
-            "name": "user fill password",
+            "name": "user fill instation",
             "result": {
               "status": "passed",
-              "duration": 119800
+              "duration": 528900
             },
             "line": 14,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:37"
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "And ",
-            "name": "user fill password confirmation",
-            "result": {
-              "status": "passed",
-              "duration": 103900
-            },
-            "line": 15,
-            "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:43"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:37"
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
-            "name": "user click agree",
+            "name": "user pick laporan category",
             "result": {
               "status": "passed",
-              "duration": 95200
+              "duration": 183700
             },
-            "line": 16,
+            "line": 15,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:49"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:43"
             }
           },
           {
             "arguments": [],
             "keyword": "Then ",
-            "name": "user click signup",
+            "name": "user click lapor",
             "result": {
               "status": "passed",
-              "duration": 100600
+              "duration": 166900
             },
-            "line": 17,
+            "line": 16,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:55"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:47"
             }
           },
           {
@@ -143,7 +130,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 20729859300
+              "duration": 17641360800
             },
             "hidden": true,
             "match": {
@@ -155,11 +142,11 @@
         "type": "scenario"
       }
     ],
-    "id": "register",
+    "id": "lapor",
     "keyword": "Feature",
     "line": 3,
-    "name": "Register",
+    "name": "Lapor",
     "tags": [],
-    "uri": "D:\\DTI_PROJECT_3\\features\\register.feature"
+    "uri": "D:\\DTI_PROJECT_3\\features\\lapor.feature"
   }
 ]

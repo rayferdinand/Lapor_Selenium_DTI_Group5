@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-    <testsuite name="register;register-on-lapor-gov-id-website" tests="10" failures="0" skipped="0">
+    <testsuite name="lapor;login-on-lapor-gov-id-website" tests="9" failures="0" skipped="0">
         <properties>
-            <property name="URI" value="D:\DTI_PROJECT_3\features\register.feature">
+            <property name="URI" value="D:\DTI_PROJECT_3\features\lapor.feature">
             </property>
         </properties>
-        <testcase name="Given user homepage" classname="register;register-on-lapor-gov-id-website" time="0.000594">
+        <testcase name="Given user browse homepage" classname="lapor;login-on-lapor-gov-id-website" time="0.0012365">
         </testcase>
-        <testcase name="And user click daftar" classname="register;register-on-lapor-gov-id-website" time="0.000141">
+        <testcase name="And user choose laporan type" classname="lapor;login-on-lapor-gov-id-website" time="0.0005813">
         </testcase>
-        <testcase name="And user fill they full name" classname="register;register-on-lapor-gov-id-website" time="0.0001137">
+        <testcase name="And user fill laporan title" classname="lapor;login-on-lapor-gov-id-website" time="0.000306">
         </testcase>
-        <testcase name="And user fill username" classname="register;register-on-lapor-gov-id-website" time="0.0001165">
+        <testcase name="And user fill laporan content" classname="lapor;login-on-lapor-gov-id-website" time="0.0003206">
         </testcase>
-        <testcase name="And user fill email" classname="register;register-on-lapor-gov-id-website" time="0.0001369">
+        <testcase name="And user fill laporan date" classname="lapor;login-on-lapor-gov-id-website" time="0.0004726">
         </testcase>
-        <testcase name="And user fill phone number" classname="register;register-on-lapor-gov-id-website" time="0.0001032">
+        <testcase name="And user fill laporan location" classname="lapor;login-on-lapor-gov-id-website" time="0.0004046">
         </testcase>
-        <testcase name="And user fill password" classname="register;register-on-lapor-gov-id-website" time="0.0001198">
+        <testcase name="And user fill instation" classname="lapor;login-on-lapor-gov-id-website" time="0.0005289">
         </testcase>
-        <testcase name="And user fill password confirmation" classname="register;register-on-lapor-gov-id-website" time="0.0001039">
+        <testcase name="When user pick laporan category" classname="lapor;login-on-lapor-gov-id-website" time="0.0001837">
         </testcase>
-        <testcase name="When user click agree" classname="register;register-on-lapor-gov-id-website" time="0.0000952">
-        </testcase>
-        <testcase name="Then user click signup" classname="register;register-on-lapor-gov-id-website" time="0.0001006">
+        <testcase name="Then user click lapor" classname="lapor;login-on-lapor-gov-id-website" time="0.0001669">
         </testcase>
     </testsuite>
 </testsuites>
