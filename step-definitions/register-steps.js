@@ -46,15 +46,19 @@ module.exports = function () {
         })
     });
 
-    this.When(/^user click agree$/, function () {
+    this.Given(/^user click agree$/, function () {
         driver.then(function () {
             return page.register.clickAgree.perform();
         })
     });
 
-    this.Then(/^user click signup$/, function () {
+    this.When(/^user click signup$/, function () {
         driver.then(function () {
             return page.register.clickSignup.perform();
         })
     });
+
+    this.Then(/^user is registered$/, function () {
+        
+      });
 }

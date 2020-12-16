@@ -13,6 +13,7 @@ Feature: Register
         And user fill phone number
         And user fill password
         And user fill password confirmation
-        When user click agree
-        Then user click signup
+        And user click agree
+        When user click signup
+        Then user is registered
         # Then user back to homepage
