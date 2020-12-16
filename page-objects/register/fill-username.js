@@ -9,6 +9,6 @@ module.exports = {
     perform: function () {
 
         var selector = page.register.fillUsername.elements.fillUsername;
-        return driver.findElement(selector).sendKeys("Ginny440");
+        return driver.findElement(selector).sendKeys("dummyacc");
     }
 };

@@ -1,6 +1,6 @@
 // ./shared-objects/test-data.js
 
 module.exports = {
-    email : "mrayferdinand@gmail.com", 
-    pass : "F3rd!R0yyy"
+    email : "dummy2020@gmail.com", 
+    pass : "JustForTesting2020"
 }

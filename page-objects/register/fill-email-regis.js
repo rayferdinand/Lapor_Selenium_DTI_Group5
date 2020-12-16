@@ -9,6 +9,6 @@ module.exports = {
     perform: function () {
 
         var selector = page.register.fillEmailRegis.elements.fillEmailRegis;
-        return driver.findElement(selector).sendKeys("");
+        return driver.findElement(selector).sendKeys("dummy2020@gmail.com");
     }
 };
