@@ -1,0 +1,165 @@
+[
+  {
+    "description": "    As a user\n    I want to be able to register to the website",
+    "elements": [
+      {
+        "id": "register;register-on-lapor-gov-id-website",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Register on lapor gov id website",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "user homepage",
+            "result": {
+              "status": "passed",
+              "duration": 1060900
+            },
+            "line": 8,
+            "match": {
+              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:3"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click daftar",
+            "result": {
+              "status": "passed",
+              "duration": 447400
+            },
+            "line": 9,
+            "match": {
+              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:7"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill they full name",
+            "result": {
+              "status": "passed",
+              "duration": 306400
+            },
+            "line": 10,
+            "match": {
+              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:13"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill username",
+            "result": {
+              "status": "passed",
+              "duration": 253300
+            },
+            "line": 11,
+            "match": {
+              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:19"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill email",
+            "result": {
+              "status": "passed",
+              "duration": 416400
+            },
+            "line": 12,
+            "match": {
+              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:25"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill phone number",
+            "result": {
+              "status": "passed",
+              "duration": 779200
+            },
+            "line": 13,
+            "match": {
+              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:31"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill password",
+            "result": {
+              "status": "passed",
+              "duration": 253200
+            },
+            "line": 14,
+            "match": {
+              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:37"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill password confirmation",
+            "result": {
+              "status": "passed",
+              "duration": 278000
+            },
+            "line": 15,
+            "match": {
+              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:43"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "user click agree",
+            "result": {
+              "status": "passed",
+              "duration": 354500
+            },
+            "line": 16,
+            "match": {
+              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:49"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "user click signup",
+            "result": {
+              "status": "passed",
+              "duration": 348400
+            },
+            "line": 17,
+            "match": {
+              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:55"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 12260700700
+            },
+            "hidden": true,
+            "match": {
+              "location": "D:\\DTI\\DTI_PROJECT_3\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "register",
+    "keyword": "Feature",
+    "line": 3,
+    "name": "Register",
+    "tags": [],
+    "uri": "D:\\DTI\\DTI_PROJECT_3\\features\\register.feature"
+  }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="register;register-on-lapor-gov-id-website" tests="10" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:\DTI\DTI_PROJECT_3\features\register.feature">
+            </property>
+        </properties>
+        <testcase name="Given user homepage" classname="register;register-on-lapor-gov-id-website" time="0.0010609">
+        </testcase>
+        <testcase name="And user click daftar" classname="register;register-on-lapor-gov-id-website" time="0.0004474">
+        </testcase>
+        <testcase name="And user fill they full name" classname="register;register-on-lapor-gov-id-website" time="0.0003064">
+        </testcase>
+        <testcase name="And user fill username" classname="register;register-on-lapor-gov-id-website" time="0.0002533">
+        </testcase>
+        <testcase name="And user fill email" classname="register;register-on-lapor-gov-id-website" time="0.0004164">
+        </testcase>
+        <testcase name="And user fill phone number" classname="register;register-on-lapor-gov-id-website" time="0.0007792">
+        </testcase>
+        <testcase name="And user fill password" classname="register;register-on-lapor-gov-id-website" time="0.0002532">
+        </testcase>
+        <testcase name="And user fill password confirmation" classname="register;register-on-lapor-gov-id-website" time="0.000278">
+        </testcase>
+        <testcase name="When user click agree" classname="register;register-on-lapor-gov-id-website" time="0.0003545">
+        </testcase>
+        <testcase name="Then user click signup" classname="register;register-on-lapor-gov-id-website" time="0.0003484">
+        </testcase>
+    </testsuite>
+</testsuites>
