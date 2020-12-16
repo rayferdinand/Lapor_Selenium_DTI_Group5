@@ -2,28 +2,28 @@
 <testsuites>
     <testsuite name="register;register-on-lapor-gov-id-website" tests="10" failures="0" skipped="0">
         <properties>
-            <property name="URI" value="D:\DTI\DTI_PROJECT_3\features\register.feature">
+            <property name="URI" value="D:\DTI_PROJECT_3\features\register.feature">
             </property>
         </properties>
-        <testcase name="Given user homepage" classname="register;register-on-lapor-gov-id-website" time="0.0010609">
+        <testcase name="Given user homepage" classname="register;register-on-lapor-gov-id-website" time="0.000594">
         </testcase>
-        <testcase name="And user click daftar" classname="register;register-on-lapor-gov-id-website" time="0.0004474">
+        <testcase name="And user click daftar" classname="register;register-on-lapor-gov-id-website" time="0.000141">
         </testcase>
-        <testcase name="And user fill they full name" classname="register;register-on-lapor-gov-id-website" time="0.0003064">
+        <testcase name="And user fill they full name" classname="register;register-on-lapor-gov-id-website" time="0.0001137">
         </testcase>
-        <testcase name="And user fill username" classname="register;register-on-lapor-gov-id-website" time="0.0002533">
+        <testcase name="And user fill username" classname="register;register-on-lapor-gov-id-website" time="0.0001165">
         </testcase>
-        <testcase name="And user fill email" classname="register;register-on-lapor-gov-id-website" time="0.0004164">
+        <testcase name="And user fill email" classname="register;register-on-lapor-gov-id-website" time="0.0001369">
         </testcase>
-        <testcase name="And user fill phone number" classname="register;register-on-lapor-gov-id-website" time="0.0007792">
+        <testcase name="And user fill phone number" classname="register;register-on-lapor-gov-id-website" time="0.0001032">
         </testcase>
-        <testcase name="And user fill password" classname="register;register-on-lapor-gov-id-website" time="0.0002532">
+        <testcase name="And user fill password" classname="register;register-on-lapor-gov-id-website" time="0.0001198">
         </testcase>
-        <testcase name="And user fill password confirmation" classname="register;register-on-lapor-gov-id-website" time="0.000278">
+        <testcase name="And user fill password confirmation" classname="register;register-on-lapor-gov-id-website" time="0.0001039">
         </testcase>
-        <testcase name="When user click agree" classname="register;register-on-lapor-gov-id-website" time="0.0003545">
+        <testcase name="When user click agree" classname="register;register-on-lapor-gov-id-website" time="0.0000952">
         </testcase>
-        <testcase name="Then user click signup" classname="register;register-on-lapor-gov-id-website" time="0.0003484">
+        <testcase name="Then user click signup" classname="register;register-on-lapor-gov-id-website" time="0.0001006">
         </testcase>
     </testsuite>
 </testsuites>

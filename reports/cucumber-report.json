@@ -14,11 +14,11 @@
             "name": "user homepage",
             "result": {
               "status": "passed",
-              "duration": 1060900
+              "duration": 594000
             },
             "line": 8,
             "match": {
-              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:3"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:3"
             }
           },
           {
@@ -27,11 +27,11 @@
             "name": "user click daftar",
             "result": {
               "status": "passed",
-              "duration": 447400
+              "duration": 141000
             },
             "line": 9,
             "match": {
-              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:7"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:7"
             }
           },
           {
@@ -40,11 +40,11 @@
             "name": "user fill they full name",
             "result": {
               "status": "passed",
-              "duration": 306400
+              "duration": 113700
             },
             "line": 10,
             "match": {
-              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:13"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:13"
             }
           },
           {
@@ -53,11 +53,11 @@
             "name": "user fill username",
             "result": {
               "status": "passed",
-              "duration": 253300
+              "duration": 116500
             },
             "line": 11,
             "match": {
-              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:19"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:19"
             }
           },
           {
@@ -66,11 +66,11 @@
             "name": "user fill email",
             "result": {
               "status": "passed",
-              "duration": 416400
+              "duration": 136900
             },
             "line": 12,
             "match": {
-              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:25"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:25"
             }
           },
           {
@@ -79,11 +79,11 @@
             "name": "user fill phone number",
             "result": {
               "status": "passed",
-              "duration": 779200
+              "duration": 103200
             },
             "line": 13,
             "match": {
-              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:31"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:31"
             }
           },
           {
@@ -92,11 +92,11 @@
             "name": "user fill password",
             "result": {
               "status": "passed",
-              "duration": 253200
+              "duration": 119800
             },
             "line": 14,
             "match": {
-              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:37"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:37"
             }
           },
           {
@@ -105,11 +105,11 @@
             "name": "user fill password confirmation",
             "result": {
               "status": "passed",
-              "duration": 278000
+              "duration": 103900
             },
             "line": 15,
             "match": {
-              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:43"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:43"
             }
           },
           {
@@ -118,11 +118,11 @@
             "name": "user click agree",
             "result": {
               "status": "passed",
-              "duration": 354500
+              "duration": 95200
             },
             "line": 16,
             "match": {
-              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:49"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:49"
             }
           },
           {
@@ -131,11 +131,11 @@
             "name": "user click signup",
             "result": {
               "status": "passed",
-              "duration": 348400
+              "duration": 100600
             },
             "line": 17,
             "match": {
-              "location": "D:\\DTI\\DTI_PROJECT_3\\step-definitions\\register-steps.js:55"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:55"
             }
           },
           {
@@ -143,11 +143,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 12260700700
+              "duration": 20729859300
             },
             "hidden": true,
             "match": {
-              "location": "D:\\DTI\\DTI_PROJECT_3\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+              "location": "D:\\DTI_PROJECT_3\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
             }
           }
         ],
@@ -160,6 +160,6 @@
     "line": 3,
     "name": "Register",
     "tags": [],
-    "uri": "D:\\DTI\\DTI_PROJECT_3\\features\\register.feature"
+    "uri": "D:\\DTI_PROJECT_3\\features\\register.feature"
   }
 ]
