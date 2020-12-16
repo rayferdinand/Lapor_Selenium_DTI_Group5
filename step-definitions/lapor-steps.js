@@ -4,6 +4,10 @@ module.exports = function () {
         helpers.loadPage('https://www.lapor.go.id')
     });
 
+    this.Given(/^user login$/, function () {
+        
+    });
+
     this.Given(/^user choose laporan type$/, function () {
         driver.then(function () {
             return page.lapor.pilihTipe.perform()

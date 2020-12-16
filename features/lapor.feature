@@ -6,6 +6,7 @@ Feature: Lapor
 
     Scenario: Lapor on lapor gov id website
         Given user browse homepage
+        And user login
         And user choose laporan type
         And user fill laporan title
         And user fill laporan content

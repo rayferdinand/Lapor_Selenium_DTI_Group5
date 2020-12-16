@@ -14,7 +14,7 @@
             "name": "user browse homepage",
             "result": {
               "status": "passed",
-              "duration": 1277100
+              "duration": 1809200
             },
             "line": 8,
             "match": {
@@ -24,10 +24,10 @@
           {
             "arguments": [],
             "keyword": "And ",
-            "name": "user choose laporan type",
+            "name": "user login",
             "result": {
               "status": "passed",
-              "duration": 396400
+              "duration": 351600
             },
             "line": 9,
             "match": {
@@ -37,14 +37,27 @@
           {
             "arguments": [],
             "keyword": "And ",
-            "name": "user fill laporan title",
+            "name": "user choose laporan type",
             "result": {
               "status": "passed",
-              "duration": 279200
+              "duration": 794700
             },
             "line": 10,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:13"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:11"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user fill laporan title",
+            "result": {
+              "status": "passed",
+              "duration": 521300
+            },
+            "line": 11,
+            "match": {
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:17"
             }
           },
           {
@@ -53,11 +66,11 @@
             "name": "user fill laporan content",
             "result": {
               "status": "passed",
-              "duration": 448400
+              "duration": 262000
             },
-            "line": 11,
+            "line": 12,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:19"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:23"
             }
           },
           {
@@ -66,11 +79,11 @@
             "name": "user fill laporan date",
             "result": {
               "status": "passed",
-              "duration": 413800
+              "duration": 325200
             },
-            "line": 12,
+            "line": 13,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:25"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:29"
             }
           },
           {
@@ -79,11 +92,11 @@
             "name": "user fill laporan location",
             "result": {
               "status": "passed",
-              "duration": 422600
+              "duration": 673900
             },
-            "line": 13,
+            "line": 14,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:31"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:35"
             }
           },
           {
@@ -92,11 +105,11 @@
             "name": "user fill instation",
             "result": {
               "status": "passed",
-              "duration": 282800
+              "duration": 464400
             },
-            "line": 14,
+            "line": 15,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:37"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:41"
             }
           },
           {
@@ -105,11 +118,11 @@
             "name": "user pick laporan category",
             "result": {
               "status": "passed",
-              "duration": 242800
+              "duration": 319300
             },
-            "line": 15,
+            "line": 16,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:43"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:47"
             }
           },
           {
@@ -118,11 +131,11 @@
             "name": "user click lapor",
             "result": {
               "status": "passed",
-              "duration": 424700
+              "duration": 885800
             },
-            "line": 16,
+            "line": 17,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:49"
+              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:53"
             }
           },
           {
@@ -130,7 +143,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 15457082300
+              "duration": 10557220300
             },
             "hidden": true,
             "match": {
@@ -164,7 +177,7 @@
             "name": "user browse login page",
             "result": {
               "status": "passed",
-              "duration": 321300
+              "duration": 442400
             },
             "line": 8,
             "match": {
@@ -177,7 +190,7 @@
             "name": "user click masuk option",
             "result": {
               "status": "passed",
-              "duration": 199800
+              "duration": 235100
             },
             "line": 9,
             "match": {
@@ -190,7 +203,7 @@
             "name": "user fill email to login",
             "result": {
               "status": "passed",
-              "duration": 405300
+              "duration": 399500
             },
             "line": 10,
             "match": {
@@ -203,7 +216,7 @@
             "name": "user fill password to login",
             "result": {
               "status": "passed",
-              "duration": 149600
+              "duration": 326300
             },
             "line": 11,
             "match": {
@@ -216,7 +229,7 @@
             "name": "user click sign",
             "result": {
               "status": "passed",
-              "duration": 83300
+              "duration": 249900
             },
             "line": 12,
             "match": {
@@ -228,7 +241,7 @@
             "keyword": "After ",
             "result": {
               "status": "failed",
-              "duration": 10911001100,
+              "duration": 9527223700,
               "error_message": "WebDriverError: element not interactable\n  (Session info: chrome=87.0.4280.88)\n  (Driver info: chromedriver=86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}),platform=Windows NT 10.0.18363 x86_64)\n    at Object.checkLegacyResponse (D:\\DTI_PROJECT_3\\node_modules\\selenium-webdriver\\lib\\error.js:529:15)\n    at parseHttpResponse (D:\\DTI_PROJECT_3\\node_modules\\selenium-webdriver\\lib\\http.js:509:13)\n    at D:\\DTI_PROJECT_3\\node_modules\\selenium-webdriver\\lib\\http.js:441:30\n    at processTicksAndRejections (node:internal/process/task_queues:93:5)\nFrom: Task: WebElement.sendKeys()\n    at thenableWebDriverProxy.schedule (D:\\DTI_PROJECT_3\\node_modules\\selenium-webdriver\\lib\\webdriver.js:807:17)\n    at WebElementPromise.schedule_ (D:\\DTI_PROJECT_3\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2015:25)\n    at WebElementPromise.sendKeys (D:\\DTI_PROJECT_3\\node_modules\\selenium-webdriver\\lib\\webdriver.js:2178:19)\n    at Object.perform (D:\\DTI_PROJECT_3\\page-objects\\login\\fill-email-login.js:12:45)\n    at D:\\DTI_PROJECT_3\\step-definitions\\login-steps.js:15:46\n    at ManagedPromise.invokeCallback_ (D:\\DTI_PROJECT_3\\node_modules\\selenium-webdriver\\lib\\promise.js:1384:14)\n    at TaskQueue.execute_ (D:\\DTI_PROJECT_3\\node_modules\\selenium-webdriver\\lib\\promise.js:3092:14)\n    at TaskQueue.executeNext_ (D:\\DTI_PROJECT_3\\node_modules\\selenium-webdriver\\lib\\promise.js:3075:27)\n    at D:\\DTI_PROJECT_3\\node_modules\\selenium-webdriver\\lib\\promise.js:2935:27\n    at D:\\DTI_PROJECT_3\\node_modules\\selenium-webdriver\\lib\\promise.js:676:7"
             },
             "hidden": true,
@@ -263,7 +276,7 @@
             "name": "user homepage",
             "result": {
               "status": "passed",
-              "duration": 502800
+              "duration": 586400
             },
             "line": 8,
             "match": {
@@ -276,7 +289,7 @@
             "name": "user click daftar",
             "result": {
               "status": "passed",
-              "duration": 169400
+              "duration": 319800
             },
             "line": 9,
             "match": {
@@ -289,7 +302,7 @@
             "name": "user fill they full name",
             "result": {
               "status": "passed",
-              "duration": 190300
+              "duration": 398000
             },
             "line": 10,
             "match": {
@@ -302,7 +315,7 @@
             "name": "user fill username",
             "result": {
               "status": "passed",
-              "duration": 413100
+              "duration": 332700
             },
             "line": 11,
             "match": {
@@ -315,7 +328,7 @@
             "name": "user fill email",
             "result": {
               "status": "passed",
-              "duration": 429700
+              "duration": 151100
             },
             "line": 12,
             "match": {
@@ -328,7 +341,7 @@
             "name": "user fill phone number",
             "result": {
               "status": "passed",
-              "duration": 225800
+              "duration": 239400
             },
             "line": 13,
             "match": {
@@ -341,7 +354,7 @@
             "name": "user fill password",
             "result": {
               "status": "passed",
-              "duration": 204400
+              "duration": 623500
             },
             "line": 14,
             "match": {
@@ -354,7 +367,7 @@
             "name": "user fill password confirmation",
             "result": {
               "status": "passed",
-              "duration": 230400
+              "duration": 428200
             },
             "line": 15,
             "match": {
@@ -367,7 +380,7 @@
             "name": "user click agree",
             "result": {
               "status": "passed",
-              "duration": 506800
+              "duration": 510500
             },
             "line": 16,
             "match": {
@@ -380,7 +393,7 @@
             "name": "user click signup",
             "result": {
               "status": "passed",
-              "duration": 328700
+              "duration": 268700
             },
             "line": 17,
             "match": {
@@ -393,7 +406,7 @@
             "name": "user is registered",
             "result": {
               "status": "passed",
-              "duration": 149000
+              "duration": 116000
             },
             "line": 18,
             "match": {
@@ -405,7 +418,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 16857446100
+              "duration": 11983125400
             },
             "hidden": true,
             "match": {
