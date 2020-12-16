@@ -9,6 +9,6 @@ module.exports = {
     perform: function () {
 
         var selector = page.lapor.fillContent.elements.fillContent;
-        return driver.findElement(selector).sendKeys("Test");
+        return driver.findElement(selector).sendKeys("a");
     }
 };

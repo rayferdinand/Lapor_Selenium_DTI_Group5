@@ -2,5 +2,5 @@
 
 module.exports = {
     email : "dummy2020@gmail.com", 
-    pass : "JustForTesting2020"
+    pass : "JustForTestin2020"
 }

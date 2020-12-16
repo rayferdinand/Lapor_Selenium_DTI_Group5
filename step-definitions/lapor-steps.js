@@ -41,10 +41,14 @@ module.exports = function () {
     });
 
     this.When(/^user pick laporan category$/, function () {
-        
+        driver.then(function () {
+            return page.lapor.pilihKategori.perform()
+        })
     });
 
     this.Then(/^user click lapor$/, function () {
-        
+        driver.then(function () {
+            return page.lapor.clickLapor.perform()
+        })
     });
 }
