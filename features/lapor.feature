@@ -1,4 +1,4 @@
-# ./features/lapoe.feature
+# ./features/lapor.feature
 
 Feature: Lapor
     As a user
@@ -13,7 +13,7 @@ Feature: Lapor
         And user fill laporan date
         And user fill laporan location
         And user fill instation
-        When user pick laporan category
-        Then user click lapor
-        # Then user click sign
+        And user pick laporan category
+        When user click lapor
+        Then user back to home
         # Then user back to homepage

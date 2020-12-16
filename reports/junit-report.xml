@@ -1,93 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-    <testsuite name="invalid-login;user-failed-to-login-on-the-website" tests="6" failures="0" skipped="0">
+    <testsuite name="lapor;can&apos;t-give-report" tests="11" failures="0" skipped="0">
         <properties>
-            <property name="URI" value="D:/New folder (2)/Lapor_Selenium_DTI_Group5/features/invalid-login.feature">
+            <property name="URI" value="D:/DTI_PROJECT_3/features/invalid-lapor.feature">
             </property>
         </properties>
-        <testcase name="Given user browse page lapor" classname="invalid-login;user-failed-to-login-on-the-website" time="0.0013052">
+        <testcase name="Given user halaman lapor" classname="lapor;can&apos;t-give-report" time="0.0009448">
         </testcase>
-        <testcase name="And user click login button" classname="invalid-login;user-failed-to-login-on-the-website" time="0.0003103">
+        <testcase name="And user melakukan login" classname="lapor;can&apos;t-give-report" time="0.0002572">
         </testcase>
-        <testcase name="And user fill username  field" classname="invalid-login;user-failed-to-login-on-the-website" time="0.0008631">
+        <testcase name="And user pilih tipe laporan" classname="lapor;can&apos;t-give-report" time="0.0004232">
         </testcase>
-        <testcase name="And user fill password field with wrong data" classname="invalid-login;user-failed-to-login-on-the-website" time="0.0002544">
+        <testcase name="And user isi judul laporan" classname="lapor;can&apos;t-give-report" time="0.0003598">
         </testcase>
-        <testcase name="When user click login" classname="invalid-login;user-failed-to-login-on-the-website" time="0.0002477">
+        <testcase name="And user isi sedikit terkait laporan" classname="lapor;can&apos;t-give-report" time="0.0005179">
         </testcase>
-        <testcase name="Then user has failed to enter the web page" classname="invalid-login;user-failed-to-login-on-the-website" time="0.000819">
+        <testcase name="And user isi tanggal laporan" classname="lapor;can&apos;t-give-report" time="0.0004655">
+        </testcase>
+        <testcase name="And user mengosongkan lokasi" classname="lapor;can&apos;t-give-report" time="0.000192">
+        </testcase>
+        <testcase name="And user mengosongkan instansi" classname="lapor;can&apos;t-give-report" time="0.000111">
+        </testcase>
+        <testcase name="And user mengosongkan kategori laporan" classname="lapor;can&apos;t-give-report" time="0.0000927">
+        </testcase>
+        <testcase name="When user klik lapor" classname="lapor;can&apos;t-give-report" time="0.0001055">
+        </testcase>
+        <testcase name="Then user gagal melapor" classname="lapor;can&apos;t-give-report" time="0.0000695">
         </testcase>
     </testsuite>
-    <testsuite name="lapor;lapor-on-lapor-gov-id-website" tests="10" failures="0" skipped="0">
+    <testsuite name="invalid-login;user-failed-to-login-on-the-website" tests="6" failures="0" skipped="0">
         <properties>
-            <property name="URI" value="D:/New folder (2)/Lapor_Selenium_DTI_Group5/features/lapor.feature">
+            <property name="URI" value="D:/DTI_PROJECT_3/features/invalid-login.feature">
             </property>
         </properties>
-        <testcase name="Given user browse homepage" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0004202">
+        <testcase name="Given user browse page lapor" classname="invalid-login;user-failed-to-login-on-the-website" time="0.0004612">
         </testcase>
-        <testcase name="And user login" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0002032">
+        <testcase name="And user click login button" classname="invalid-login;user-failed-to-login-on-the-website" time="0.000541">
         </testcase>
-        <testcase name="And user choose laporan type" classname="lapor;lapor-on-lapor-gov-id-website" time="0.000212">
+        <testcase name="And user fill username  field" classname="invalid-login;user-failed-to-login-on-the-website" time="0.0004375">
         </testcase>
-        <testcase name="And user fill laporan title" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0002146">
+        <testcase name="And user fill password field with wrong data" classname="invalid-login;user-failed-to-login-on-the-website" time="0.0001966">
         </testcase>
-        <testcase name="And user fill laporan content" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0001919">
+        <testcase name="When user click login" classname="invalid-login;user-failed-to-login-on-the-website" time="0.000239">
         </testcase>
-        <testcase name="And user fill laporan date" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0012423">
+        <testcase name="Then user has failed to enter the web page" classname="invalid-login;user-failed-to-login-on-the-website" time="0.0004925">
         </testcase>
-        <testcase name="And user fill laporan location" classname="lapor;lapor-on-lapor-gov-id-website" time="0.000208">
+    </testsuite>
+    <testsuite name="register;register-didn&apos;t-succeed" tests="11" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/DTI_PROJECT_3/features/invalid-register.feature">
+            </property>
+        </properties>
+        <testcase name="Given user website" classname="register;register-didn&apos;t-succeed" time="0.0006064">
         </testcase>
-        <testcase name="And user fill instation" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0002453">
+        <testcase name="And user klik daftar" classname="register;register-didn&apos;t-succeed" time="0.0003726">
         </testcase>
-        <testcase name="When user pick laporan category" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0003342">
+        <testcase name="And user don&apos;t fill they name" classname="register;register-didn&apos;t-succeed" time="0.0002082">
         </testcase>
-        <testcase name="Then user click lapor" classname="lapor;lapor-on-lapor-gov-id-website" time="0.001374">
+        <testcase name="And user isi username" classname="register;register-didn&apos;t-succeed" time="0.0003005">
+        </testcase>
+        <testcase name="And user isi email" classname="register;register-didn&apos;t-succeed" time="0.0002214">
+        </testcase>
+        <testcase name="And user isi phone number dengan string" classname="register;register-didn&apos;t-succeed" time="0.000405">
+        </testcase>
+        <testcase name="And user isi password" classname="register;register-didn&apos;t-succeed" time="0.0004478">
+        </testcase>
+        <testcase name="And user isi password confirmation" classname="register;register-didn&apos;t-succeed" time="0.0003363">
+        </testcase>
+        <testcase name="And user click setuju syarat" classname="register;register-didn&apos;t-succeed" time="0.00031">
+        </testcase>
+        <testcase name="When user klik signup" classname="register;register-didn&apos;t-succeed" time="0.0004455">
+        </testcase>
+        <testcase name="Then user gagal terdaftar" classname="register;register-didn&apos;t-succeed" time="0.0002933">
+        </testcase>
+    </testsuite>
+    <testsuite name="lapor;lapor-on-lapor-gov-id-website" tests="11" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="D:/DTI_PROJECT_3/features/lapor.feature">
+            </property>
+        </properties>
+        <testcase name="Given user browse homepage" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0004065">
+        </testcase>
+        <testcase name="And user login" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0001274">
+        </testcase>
+        <testcase name="And user choose laporan type" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0003747">
+        </testcase>
+        <testcase name="And user fill laporan title" classname="lapor;lapor-on-lapor-gov-id-website" time="0.000269">
+        </testcase>
+        <testcase name="And user fill laporan content" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0002267">
+        </testcase>
+        <testcase name="And user fill laporan date" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0002338">
+        </testcase>
+        <testcase name="And user fill laporan location" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0002057">
+        </testcase>
+        <testcase name="And user fill instation" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0003575">
+        </testcase>
+        <testcase name="And user pick laporan category" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0001337">
+        </testcase>
+        <testcase name="When user click lapor" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0003157">
+        </testcase>
+        <testcase name="Then user back to home" classname="lapor;lapor-on-lapor-gov-id-website" time="0.0001011">
         </testcase>
     </testsuite>
     <testsuite name="login;user-success-to-login-on-the-website" tests="6" failures="0" skipped="0">
         <properties>
-            <property name="URI" value="D:/New folder (2)/Lapor_Selenium_DTI_Group5/features/login.feature">
+            <property name="URI" value="D:/DTI_PROJECT_3/features/login.feature">
             </property>
         </properties>
-        <testcase name="Given user browse home page" classname="login;user-success-to-login-on-the-website" time="0.0005998">
+        <testcase name="Given user browse home page" classname="login;user-success-to-login-on-the-website" time="0.0001818">
         </testcase>
-        <testcase name="And user click masuk" classname="login;user-success-to-login-on-the-website" time="0.0002785">
+        <testcase name="And user click masuk" classname="login;user-success-to-login-on-the-website" time="0.0000904">
         </testcase>
-        <testcase name="And user fill username field" classname="login;user-success-to-login-on-the-website" time="0.0002731">
+        <testcase name="And user fill username field" classname="login;user-success-to-login-on-the-website" time="0.00009">
         </testcase>
-        <testcase name="And user fill password field" classname="login;user-success-to-login-on-the-website" time="0.000258">
+        <testcase name="And user fill password field" classname="login;user-success-to-login-on-the-website" time="0.0000894">
         </testcase>
-        <testcase name="When user click masuk button" classname="login;user-success-to-login-on-the-website" time="0.0002299">
+        <testcase name="When user click masuk button" classname="login;user-success-to-login-on-the-website" time="0.0000893">
         </testcase>
-        <testcase name="Then user has successfully entered the web page" classname="login;user-success-to-login-on-the-website" time="0.0005269">
+        <testcase name="Then user has successfully entered the web page" classname="login;user-success-to-login-on-the-website" time="0.0001657">
         </testcase>
     </testsuite>
     <testsuite name="register;register-on-lapor-gov-id-website" tests="11" failures="0" skipped="0">
         <properties>
-            <property name="URI" value="D:/New folder (2)/Lapor_Selenium_DTI_Group5/features/register.feature">
+            <property name="URI" value="D:/DTI_PROJECT_3/features/register.feature">
             </property>
         </properties>
-        <testcase name="Given user homepage" classname="register;register-on-lapor-gov-id-website" time="0.0008427">
+        <testcase name="Given user homepage" classname="register;register-on-lapor-gov-id-website" time="0.0002603">
         </testcase>
-        <testcase name="And user click daftar" classname="register;register-on-lapor-gov-id-website" time="0.0009372">
+        <testcase name="And user click daftar" classname="register;register-on-lapor-gov-id-website" time="0.0000985">
         </testcase>
-        <testcase name="And user fill they full name" classname="register;register-on-lapor-gov-id-website" time="0.0012219">
+        <testcase name="And user fill they full name" classname="register;register-on-lapor-gov-id-website" time="0.0001067">
         </testcase>
-        <testcase name="And user fill username" classname="register;register-on-lapor-gov-id-website" time="0.0003287">
+        <testcase name="And user fill username" classname="register;register-on-lapor-gov-id-website" time="0.0000893">
         </testcase>
-        <testcase name="And user fill email" classname="register;register-on-lapor-gov-id-website" time="0.0019126">
+        <testcase name="And user fill email" classname="register;register-on-lapor-gov-id-website" time="0.0001407">
         </testcase>
-        <testcase name="And user fill phone number" classname="register;register-on-lapor-gov-id-website" time="0.0003698">
+        <testcase name="And user fill phone number" classname="register;register-on-lapor-gov-id-website" time="0.0000844">
         </testcase>
-        <testcase name="And user fill password" classname="register;register-on-lapor-gov-id-website" time="0.000409">
+        <testcase name="And user fill password" classname="register;register-on-lapor-gov-id-website" time="0.000084">
         </testcase>
-        <testcase name="And user fill password confirmation" classname="register;register-on-lapor-gov-id-website" time="0.0003038">
+        <testcase name="And user fill password confirmation" classname="register;register-on-lapor-gov-id-website" time="0.0000837">
         </testcase>
-        <testcase name="And user click agree" classname="register;register-on-lapor-gov-id-website" time="0.0009404">
+        <testcase name="And user click agree" classname="register;register-on-lapor-gov-id-website" time="0.0000804">
         </testcase>
-        <testcase name="When user click signup" classname="register;register-on-lapor-gov-id-website" time="0.0025127">
+        <testcase name="When user click signup" classname="register;register-on-lapor-gov-id-website" time="0.0000933">
         </testcase>
-        <testcase name="Then user is registered" classname="register;register-on-lapor-gov-id-website" time="0.0004744">
+        <testcase name="Then user is registered" classname="register;register-on-lapor-gov-id-website" time="0.0000504">
         </testcase>
     </testsuite>
 </testsuites>
