@@ -2,5 +2,8 @@
 
 module.exports = {
     email : "dummy2020@gmail.com", 
-    pass : "JustForTesting2020"
+    pass : "JustForTestin2020",
+    username : "dummy123",
+    password : "Qwerty123$",
+    wrongpassword : "Asdfgh5678("
 }

@@ -1,32 +1,34 @@
 module.exports = function () {
 
-    this.Given(/^user browse login page$/, function () {
+    this.Given(/^user browse home page$/, function () {
         helpers.loadPage(shared.pages.laporidLoginPage)
       });
 
-    this.Given(/^user click masuk option$/, function () {
+    this.Given(/^user click masuk$/, function () {
         driver.then(function () {
-            return page.login.clickMasuk.perform()
+            return page.buttonMasuk.performClick()
         })
     });
 
-    this.Given(/^user fill email to login$/, function () {
+    this.Given(/^user fill username field$/, function () {
         driver.then(function () {
-            return page.login.fillEmailLogin.perform()
+            return page.fillUsername.performFill()
         })
     });
 
-    this.Given(/^user fill password to login$/, function () {
+    this.Given(/^user fill password field$/, function () {
         driver.then(function () {
-            return page.login.fillPwLogin.perform()
+            return page.fillPassword.performFill()
         })
     });
 
-    this.When(/^user click sign$/, function () {
-        
+    this.When(/^user click masuk button$/, function () {
+        driver.then(function () {
+            return page.buttonMasuk2.performClick()
+        })
     });
 
-    this.Then(/^user back to homepage$/, function () {
-        
+    this.Then(/^user has successfully entered the web page$/, function () {
+        helpers.getFirstElementContainingText('nav[role="navigation"] ul li a', 'Dumy');
     });
 }

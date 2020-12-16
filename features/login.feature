@@ -2,12 +2,12 @@
 
 Feature: Login
     As a user
-    I want to be able to login to the website
+    I want to be able to login
 
-    Scenario: Login on lapor gov id website
-        Given user browse login page
-        And user click masuk option
-        And user fill email to login
-        When user fill password to login
-        Then user click sign
-        # Then user back to homepage
+    Scenario: User success to login on the website
+        Given user browse home page
+        And user click masuk
+        And user fill username field
+        And user fill password field
+        When user click masuk button
+        Then user has successfully entered the web page
