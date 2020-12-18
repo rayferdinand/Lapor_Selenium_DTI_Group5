@@ -1,6 +1,6 @@
 # ./features/invalid-register.feature
 
-Feature: Register
+Feature: Invalid Register
     As a user
     I can't register at website LAPOR
 

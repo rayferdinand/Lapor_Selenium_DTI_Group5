@@ -1,6 +1,6 @@
 # ./features/lapor.feature
 
-Feature: Lapor
+Feature: Invalid Lapor
     As a user
     I want to be able to lapor on the website
 
