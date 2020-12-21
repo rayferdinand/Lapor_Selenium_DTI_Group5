@@ -8,7 +8,7 @@ module.exports = {
 
     performFill: function () {
 
-        var selector = page.fillWrongPassword.elements.fillWrongPassword;
+        var selector = page.login.fillWrongPassword.elements.fillWrongPassword;
         return driver.findElement(selector).sendKeys(shared.id.wrongpassword);
     }
 };

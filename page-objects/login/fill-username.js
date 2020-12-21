@@ -8,7 +8,7 @@ module.exports = {
 
     performFill: function () {
 
-        var selector = page.fillUsername.elements.fillUsername;
+        var selector = page.login.fillUsername.elements.fillUsername;
         return driver.findElement(selector).sendKeys(shared.id.username);
     }
 };

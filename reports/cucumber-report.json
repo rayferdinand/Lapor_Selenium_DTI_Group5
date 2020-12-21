@@ -14,11 +14,11 @@
             "name": "user halaman lapor",
             "result": {
               "status": "passed",
-              "duration": 944800
+              "duration": 2113700
             },
             "line": 8,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-lapor-steps.js:3"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-lapor-steps.js:3"
             }
           },
           {
@@ -27,11 +27,11 @@
             "name": "user melakukan login",
             "result": {
               "status": "passed",
-              "duration": 257200
+              "duration": 462500
             },
             "line": 9,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-lapor-steps.js:7"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-lapor-steps.js:7"
             }
           },
           {
@@ -40,11 +40,11 @@
             "name": "user pilih tipe laporan",
             "result": {
               "status": "passed",
-              "duration": 423200
+              "duration": 464700
             },
             "line": 10,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-lapor-steps.js:11"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-lapor-steps.js:11"
             }
           },
           {
@@ -53,11 +53,11 @@
             "name": "user isi judul laporan",
             "result": {
               "status": "passed",
-              "duration": 359800
+              "duration": 618200
             },
             "line": 11,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-lapor-steps.js:17"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-lapor-steps.js:17"
             }
           },
           {
@@ -66,11 +66,11 @@
             "name": "user isi sedikit terkait laporan",
             "result": {
               "status": "passed",
-              "duration": 517900
+              "duration": 1337200
             },
             "line": 12,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-lapor-steps.js:23"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-lapor-steps.js:23"
             }
           },
           {
@@ -79,11 +79,11 @@
             "name": "user isi tanggal laporan",
             "result": {
               "status": "passed",
-              "duration": 465500
+              "duration": 652800
             },
             "line": 13,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-lapor-steps.js:29"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-lapor-steps.js:29"
             }
           },
           {
@@ -92,11 +92,11 @@
             "name": "user mengosongkan lokasi",
             "result": {
               "status": "passed",
-              "duration": 192000
+              "duration": 367900
             },
             "line": 14,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-lapor-steps.js:35"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-lapor-steps.js:35"
             }
           },
           {
@@ -105,11 +105,11 @@
             "name": "user mengosongkan instansi",
             "result": {
               "status": "passed",
-              "duration": 111000
+              "duration": 337800
             },
             "line": 15,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-lapor-steps.js:41"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-lapor-steps.js:41"
             }
           },
           {
@@ -118,11 +118,11 @@
             "name": "user mengosongkan kategori laporan",
             "result": {
               "status": "passed",
-              "duration": 92700
+              "duration": 414100
             },
             "line": 16,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-lapor-steps.js:47"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-lapor-steps.js:47"
             }
           },
           {
@@ -131,11 +131,11 @@
             "name": "user klik lapor",
             "result": {
               "status": "passed",
-              "duration": 105500
+              "duration": 229000
             },
             "line": 17,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-lapor-steps.js:53"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-lapor-steps.js:53"
             }
           },
           {
@@ -144,11 +144,11 @@
             "name": "user gagal melapor",
             "result": {
               "status": "passed",
-              "duration": 69500
+              "duration": 164200
             },
             "line": 18,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-lapor-steps.js:59"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-lapor-steps.js:59"
             }
           },
           {
@@ -156,11 +156,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 16511862700
+              "duration": 15554726700
             },
             "hidden": true,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
             }
           }
         ],
@@ -173,7 +173,118 @@
     "line": 3,
     "name": "Lapor",
     "tags": [],
-    "uri": "D:/DTI_PROJECT_3/features/invalid-lapor.feature"
+    "uri": "D:/Kuliah/Ekstensi/Semester 3/DTI/TA/Final/Lapor_Selenium_DTI_Group5/features/invalid-lapor.feature"
+  },
+  {
+    "description": "    As a user\n    I can't login at website LAPOR",
+    "elements": [
+      {
+        "id": "invalid-login;user-failed-to-login-on-the-website",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "User failed to login on the website",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "user browse page lapor_2",
+            "result": {
+              "status": "passed",
+              "duration": 567900
+            },
+            "line": 8,
+            "match": {
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-login-no-userpass-steps.js:2"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user click login button_2",
+            "result": {
+              "status": "passed",
+              "duration": 291300
+            },
+            "line": 9,
+            "match": {
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-login-no-userpass-steps.js:6"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user not fill username  field",
+            "result": {
+              "status": "passed",
+              "duration": 224800
+            },
+            "line": 10,
+            "match": {
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-login-no-userpass-steps.js:12"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "user not fill password field",
+            "result": {
+              "status": "passed",
+              "duration": 204900
+            },
+            "line": 11,
+            "match": {
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-login-no-userpass-steps.js:18"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "user click login_2",
+            "result": {
+              "status": "passed",
+              "duration": 240500
+            },
+            "line": 12,
+            "match": {
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-login-no-userpass-steps.js:24"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "user has failed to enter the web page_2",
+            "result": {
+              "status": "passed",
+              "duration": 526000
+            },
+            "line": 13,
+            "match": {
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-login-no-userpass-steps.js:30"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 15606728400
+            },
+            "hidden": true,
+            "match": {
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "invalid-login",
+    "keyword": "Feature",
+    "line": 3,
+    "name": "Invalid Login",
+    "tags": [],
+    "uri": "D:/Kuliah/Ekstensi/Semester 3/DTI/TA/Final/Lapor_Selenium_DTI_Group5/features/invalid-login-no-userpass.feature"
   },
   {
     "description": "    As a user\n    I can't login at website LAPOR",
@@ -190,11 +301,11 @@
             "name": "user browse page lapor",
             "result": {
               "status": "passed",
-              "duration": 461200
+              "duration": 484700
             },
             "line": 8,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-login-steps.js:2"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-login-wrong-password-steps.js:2"
             }
           },
           {
@@ -203,11 +314,11 @@
             "name": "user click login button",
             "result": {
               "status": "passed",
-              "duration": 541000
+              "duration": 193400
             },
             "line": 9,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-login-steps.js:6"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-login-wrong-password-steps.js:6"
             }
           },
           {
@@ -216,11 +327,11 @@
             "name": "user fill username  field",
             "result": {
               "status": "passed",
-              "duration": 437500
+              "duration": 196100
             },
             "line": 10,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-login-steps.js:12"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-login-wrong-password-steps.js:12"
             }
           },
           {
@@ -229,11 +340,11 @@
             "name": "user fill password field with wrong data",
             "result": {
               "status": "passed",
-              "duration": 196600
+              "duration": 195800
             },
             "line": 11,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-login-steps.js:18"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-login-wrong-password-steps.js:18"
             }
           },
           {
@@ -242,11 +353,11 @@
             "name": "user click login",
             "result": {
               "status": "passed",
-              "duration": 239000
+              "duration": 205900
             },
             "line": 12,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-login-steps.js:24"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-login-wrong-password-steps.js:24"
             }
           },
           {
@@ -255,11 +366,11 @@
             "name": "user has failed to enter the web page",
             "result": {
               "status": "passed",
-              "duration": 492500
+              "duration": 408000
             },
             "line": 13,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-login-steps.js:30"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-login-wrong-password-steps.js:30"
             }
           },
           {
@@ -267,11 +378,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 12778159200
+              "duration": 13641945800
             },
             "hidden": true,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
             }
           }
         ],
@@ -284,13 +395,13 @@
     "line": 3,
     "name": "Invalid Login",
     "tags": [],
-    "uri": "D:/DTI_PROJECT_3/features/invalid-login.feature"
+    "uri": "D:/Kuliah/Ekstensi/Semester 3/DTI/TA/Final/Lapor_Selenium_DTI_Group5/features/invalid-login-wrong-password.feature"
   },
   {
     "description": "    As a user\n    I can't register at website LAPOR",
     "elements": [
       {
-        "id": "register;register-didn't-succeed",
+        "id": "invalid-register;register-didn't-succeed",
         "keyword": "Scenario",
         "line": 7,
         "name": "Register didn't succeed",
@@ -301,11 +412,11 @@
             "name": "user website",
             "result": {
               "status": "passed",
-              "duration": 606400
+              "duration": 549000
             },
             "line": 8,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-register-steps.js:3"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-register-steps.js:3"
             }
           },
           {
@@ -314,11 +425,11 @@
             "name": "user klik daftar",
             "result": {
               "status": "passed",
-              "duration": 372600
+              "duration": 348800
             },
             "line": 9,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-register-steps.js:7"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-register-steps.js:7"
             }
           },
           {
@@ -327,11 +438,11 @@
             "name": "user don't fill they name",
             "result": {
               "status": "passed",
-              "duration": 208200
+              "duration": 201900
             },
             "line": 10,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-register-steps.js:13"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-register-steps.js:13"
             }
           },
           {
@@ -340,11 +451,11 @@
             "name": "user isi username",
             "result": {
               "status": "passed",
-              "duration": 300500
+              "duration": 198300
             },
             "line": 11,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-register-steps.js:19"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-register-steps.js:19"
             }
           },
           {
@@ -353,11 +464,11 @@
             "name": "user isi email",
             "result": {
               "status": "passed",
-              "duration": 221400
+              "duration": 198200
             },
             "line": 12,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-register-steps.js:25"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-register-steps.js:25"
             }
           },
           {
@@ -366,11 +477,11 @@
             "name": "user isi phone number dengan string",
             "result": {
               "status": "passed",
-              "duration": 405000
+              "duration": 190800
             },
             "line": 13,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-register-steps.js:31"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-register-steps.js:31"
             }
           },
           {
@@ -379,11 +490,11 @@
             "name": "user isi password",
             "result": {
               "status": "passed",
-              "duration": 447800
+              "duration": 193300
             },
             "line": 14,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-register-steps.js:37"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-register-steps.js:37"
             }
           },
           {
@@ -392,11 +503,11 @@
             "name": "user isi password confirmation",
             "result": {
               "status": "passed",
-              "duration": 336300
+              "duration": 597000
             },
             "line": 15,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-register-steps.js:43"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-register-steps.js:43"
             }
           },
           {
@@ -405,11 +516,11 @@
             "name": "user click setuju syarat",
             "result": {
               "status": "passed",
-              "duration": 310000
+              "duration": 203500
             },
             "line": 16,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-register-steps.js:49"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-register-steps.js:49"
             }
           },
           {
@@ -418,11 +529,11 @@
             "name": "user klik signup",
             "result": {
               "status": "passed",
-              "duration": 445500
+              "duration": 479900
             },
             "line": 17,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-register-steps.js:55"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-register-steps.js:55"
             }
           },
           {
@@ -431,11 +542,11 @@
             "name": "user gagal terdaftar",
             "result": {
               "status": "passed",
-              "duration": 293300
+              "duration": 117500
             },
             "line": 18,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\invalid-register-steps.js:61"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\invalid-register-steps.js:61"
             }
           },
           {
@@ -443,11 +554,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 12202155900
+              "duration": 13448981400
             },
             "hidden": true,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
             }
           }
         ],
@@ -455,18 +566,18 @@
         "type": "scenario"
       }
     ],
-    "id": "register",
+    "id": "invalid-register",
     "keyword": "Feature",
     "line": 3,
-    "name": "Register",
+    "name": "Invalid Register",
     "tags": [],
-    "uri": "D:/DTI_PROJECT_3/features/invalid-register.feature"
+    "uri": "D:/Kuliah/Ekstensi/Semester 3/DTI/TA/Final/Lapor_Selenium_DTI_Group5/features/invalid-register.feature"
   },
   {
     "description": "    As a user\n    I want to be able to lapor on the website",
     "elements": [
       {
-        "id": "lapor;lapor-on-lapor-gov-id-website",
+        "id": "invalid-lapor;lapor-on-lapor-gov-id-website",
         "keyword": "Scenario",
         "line": 7,
         "name": "Lapor on lapor gov id website",
@@ -477,11 +588,11 @@
             "name": "user browse homepage",
             "result": {
               "status": "passed",
-              "duration": 406500
+              "duration": 925100
             },
             "line": 8,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:3"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\lapor-steps.js:3"
             }
           },
           {
@@ -490,11 +601,11 @@
             "name": "user login",
             "result": {
               "status": "passed",
-              "duration": 127400
+              "duration": 232500
             },
             "line": 9,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:7"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\lapor-steps.js:7"
             }
           },
           {
@@ -503,11 +614,11 @@
             "name": "user choose laporan type",
             "result": {
               "status": "passed",
-              "duration": 374700
+              "duration": 302900
             },
             "line": 10,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:11"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\lapor-steps.js:11"
             }
           },
           {
@@ -516,11 +627,11 @@
             "name": "user fill laporan title",
             "result": {
               "status": "passed",
-              "duration": 269000
+              "duration": 317300
             },
             "line": 11,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:17"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\lapor-steps.js:17"
             }
           },
           {
@@ -529,11 +640,11 @@
             "name": "user fill laporan content",
             "result": {
               "status": "passed",
-              "duration": 226700
+              "duration": 472600
             },
             "line": 12,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:23"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\lapor-steps.js:23"
             }
           },
           {
@@ -542,11 +653,11 @@
             "name": "user fill laporan date",
             "result": {
               "status": "passed",
-              "duration": 233800
+              "duration": 1282000
             },
             "line": 13,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:29"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\lapor-steps.js:29"
             }
           },
           {
@@ -555,11 +666,11 @@
             "name": "user fill laporan location",
             "result": {
               "status": "passed",
-              "duration": 205700
+              "duration": 359400
             },
             "line": 14,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:35"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\lapor-steps.js:35"
             }
           },
           {
@@ -568,11 +679,11 @@
             "name": "user fill instation",
             "result": {
               "status": "passed",
-              "duration": 357500
+              "duration": 1622600
             },
             "line": 15,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:41"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\lapor-steps.js:41"
             }
           },
           {
@@ -581,11 +692,11 @@
             "name": "user pick laporan category",
             "result": {
               "status": "passed",
-              "duration": 133700
+              "duration": 140400
             },
             "line": 16,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:47"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\lapor-steps.js:47"
             }
           },
           {
@@ -594,11 +705,11 @@
             "name": "user click lapor",
             "result": {
               "status": "passed",
-              "duration": 315700
+              "duration": 324000
             },
             "line": 17,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:53"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\lapor-steps.js:53"
             }
           },
           {
@@ -607,11 +718,11 @@
             "name": "user back to home",
             "result": {
               "status": "passed",
-              "duration": 101100
+              "duration": 286600
             },
             "line": 18,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\lapor-steps.js:59"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\lapor-steps.js:59"
             }
           },
           {
@@ -619,11 +730,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 14653423200
+              "duration": 16750210300
             },
             "hidden": true,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
             }
           }
         ],
@@ -631,12 +742,12 @@
         "type": "scenario"
       }
     ],
-    "id": "lapor",
+    "id": "invalid-lapor",
     "keyword": "Feature",
     "line": 3,
-    "name": "Lapor",
+    "name": "Invalid Lapor",
     "tags": [],
-    "uri": "D:/DTI_PROJECT_3/features/lapor.feature"
+    "uri": "D:/Kuliah/Ekstensi/Semester 3/DTI/TA/Final/Lapor_Selenium_DTI_Group5/features/lapor.feature"
   },
   {
     "description": "    As a user\n    I want to be able to login",
@@ -653,11 +764,11 @@
             "name": "user browse home page",
             "result": {
               "status": "passed",
-              "duration": 181800
+              "duration": 324800
             },
             "line": 8,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\login-steps.js:3"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\login-steps.js:3"
             }
           },
           {
@@ -666,11 +777,11 @@
             "name": "user click masuk",
             "result": {
               "status": "passed",
-              "duration": 90400
+              "duration": 223700
             },
             "line": 9,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\login-steps.js:7"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\login-steps.js:7"
             }
           },
           {
@@ -679,11 +790,11 @@
             "name": "user fill username field",
             "result": {
               "status": "passed",
-              "duration": 90000
+              "duration": 235900
             },
             "line": 10,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\login-steps.js:13"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\login-steps.js:13"
             }
           },
           {
@@ -692,11 +803,11 @@
             "name": "user fill password field",
             "result": {
               "status": "passed",
-              "duration": 89400
+              "duration": 204600
             },
             "line": 11,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\login-steps.js:19"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\login-steps.js:19"
             }
           },
           {
@@ -705,11 +816,11 @@
             "name": "user click masuk button",
             "result": {
               "status": "passed",
-              "duration": 89300
+              "duration": 200800
             },
             "line": 12,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\login-steps.js:25"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\login-steps.js:25"
             }
           },
           {
@@ -718,11 +829,11 @@
             "name": "user has successfully entered the web page",
             "result": {
               "status": "passed",
-              "duration": 165700
+              "duration": 361000
             },
             "line": 13,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\login-steps.js:31"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\login-steps.js:31"
             }
           },
           {
@@ -730,11 +841,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 15544585500
+              "duration": 13004624200
             },
             "hidden": true,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
             }
           }
         ],
@@ -747,7 +858,7 @@
     "line": 3,
     "name": "Login",
     "tags": [],
-    "uri": "D:/DTI_PROJECT_3/features/login.feature"
+    "uri": "D:/Kuliah/Ekstensi/Semester 3/DTI/TA/Final/Lapor_Selenium_DTI_Group5/features/login.feature"
   },
   {
     "description": "    As a user\n    I want to be able to register to the website",
@@ -764,11 +875,11 @@
             "name": "user homepage",
             "result": {
               "status": "passed",
-              "duration": 260300
+              "duration": 447300
             },
             "line": 8,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:3"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\register-steps.js:3"
             }
           },
           {
@@ -777,11 +888,11 @@
             "name": "user click daftar",
             "result": {
               "status": "passed",
-              "duration": 98500
+              "duration": 217300
             },
             "line": 9,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:7"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\register-steps.js:7"
             }
           },
           {
@@ -790,11 +901,11 @@
             "name": "user fill they full name",
             "result": {
               "status": "passed",
-              "duration": 106700
+              "duration": 309600
             },
             "line": 10,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:13"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\register-steps.js:13"
             }
           },
           {
@@ -803,11 +914,11 @@
             "name": "user fill username",
             "result": {
               "status": "passed",
-              "duration": 89300
+              "duration": 208100
             },
             "line": 11,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:19"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\register-steps.js:19"
             }
           },
           {
@@ -816,11 +927,11 @@
             "name": "user fill email",
             "result": {
               "status": "passed",
-              "duration": 140700
+              "duration": 206800
             },
             "line": 12,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:25"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\register-steps.js:25"
             }
           },
           {
@@ -829,11 +940,11 @@
             "name": "user fill phone number",
             "result": {
               "status": "passed",
-              "duration": 84400
+              "duration": 387400
             },
             "line": 13,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:31"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\register-steps.js:31"
             }
           },
           {
@@ -842,11 +953,11 @@
             "name": "user fill password",
             "result": {
               "status": "passed",
-              "duration": 84000
+              "duration": 308100
             },
             "line": 14,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:37"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\register-steps.js:37"
             }
           },
           {
@@ -855,11 +966,11 @@
             "name": "user fill password confirmation",
             "result": {
               "status": "passed",
-              "duration": 83700
+              "duration": 731200
             },
             "line": 15,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:43"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\register-steps.js:43"
             }
           },
           {
@@ -868,11 +979,11 @@
             "name": "user click agree",
             "result": {
               "status": "passed",
-              "duration": 80400
+              "duration": 190700
             },
             "line": 16,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:49"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\register-steps.js:49"
             }
           },
           {
@@ -881,11 +992,11 @@
             "name": "user click signup",
             "result": {
               "status": "passed",
-              "duration": 93300
+              "duration": 201500
             },
             "line": 17,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:55"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\register-steps.js:55"
             }
           },
           {
@@ -894,11 +1005,11 @@
             "name": "user is registered",
             "result": {
               "status": "passed",
-              "duration": 50400
+              "duration": 413600
             },
             "line": 18,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\step-definitions\\register-steps.js:61"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\step-definitions\\register-steps.js:61"
             }
           },
           {
@@ -906,11 +1017,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 16760991800
+              "duration": 13672150700
             },
             "hidden": true,
             "match": {
-              "location": "D:\\DTI_PROJECT_3\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+              "location": "3\\DTI\\TA\\Final\\Lapor_Selenium_DTI_Group5\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
             }
           }
         ],
@@ -923,6 +1034,6 @@
     "line": 3,
     "name": "Register",
     "tags": [],
-    "uri": "D:/DTI_PROJECT_3/features/register.feature"
+    "uri": "D:/Kuliah/Ekstensi/Semester 3/DTI/TA/Final/Lapor_Selenium_DTI_Group5/features/register.feature"
   }
 ]

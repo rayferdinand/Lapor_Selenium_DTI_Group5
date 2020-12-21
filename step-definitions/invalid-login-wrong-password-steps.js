@@ -5,25 +5,25 @@ module.exports = function () {
 
     this.Given(/^user click login button$/, function () {
         driver.then(function () {
-            return page.buttonMasuk.performClick()
+            return page.login.buttonMasuk.performClick()
         })
     });
 
     this.Given(/^user fill username  field$/, function () {
         driver.then(function () {
-            return page.fillUsername.performFill()
+            return page.login.fillUsername.performFill()
         })
     });
 
     this.Given(/^user fill password field with wrong data$/, function () {
         driver.then(function () {
-            return page.fillWrongPassword.performFill()
+            return page.login.fillWrongPassword.performFill()
         })
     });
 
     this.When(/^user click login$/, function () {
         driver.then(function () {
-            return page.buttonMasuk2.performClick()
+            return page.login.buttonMasuk2.performClick()
         })
     });
 

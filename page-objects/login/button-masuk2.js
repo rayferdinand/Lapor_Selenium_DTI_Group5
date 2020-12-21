@@ -8,7 +8,7 @@ module.exports = {
 
     performClick: function () {
 
-        var selector = page.buttonMasuk2.elements.buttonMasuk2;
+        var selector = page.login.buttonMasuk2.elements.buttonMasuk2;
         return driver.findElement(selector).click();
     }
 };
